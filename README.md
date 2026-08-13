@@ -18,9 +18,10 @@ Game: Unity（学習中・ピンボールゲーム制作中）
 
 AI: ComfyUI / Stable Diffusion によるローカル画像生成の自作ツール開発
 
-📌 Pinned Work
-GCS_python — GitHub Contributions通知システム
+🧪 最近作っているもの
 
-GO_practice_DDD — Go × DDD 個人製作Webアプリバックエンド
-
-auto_create_image — 生成AIプロンプト自動作成＆出力ツール（Go）
+| プロジェクト | 内容 |
+| --- | --- |
+| [GCS_python](https://github.com/YuuuDays/GCS_python) | GitHub Contributions通知システム |
+| [GCS_backend](https://github.com/YuuuDays/GCS_backend) | GitHub通知Webアプリ_バックエンド |
+| [auto_create_image](https://github.com/YuuuDays/auto_create_image) | ローカルの生成AIのAPIを利用し、画像の連続作成するアプリ |
