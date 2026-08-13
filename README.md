@@ -4,7 +4,7 @@ Contracted SE / Backend Engineer（C#, Java）—  Japan.
 基幹システムのバックエンド開発をしながら、個人ではUnityでのゲーム制作やGoでのツール自作、AI生成まわりの検証をしています。イラスト・漫画制作もしていて、手を動かして学ぶのが好きです。
 
 # 🔗 Links
-📝 Qiita (https://qiita.com/YuuuUuuuUuuuU)— 自作ツールや学習メモを投稿
+📝 [Qiita](https://qiita.com/YuuuUuuuUuuuU) — 自作ツールや学習メモを投稿
 
 # 🛠️ Tech
 
