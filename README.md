@@ -3,10 +3,10 @@ Contracted SE / Backend Engineer（C#, Java）—  Japan.
 
 基幹システムのバックエンド開発をしながら、個人ではUnityでのゲーム制作やGoでのツール自作、AI生成まわりの検証をしています。イラスト・漫画制作もしていて、手を動かして学ぶのが好きです。
 
-🔗 Links
-📝 Qiita @YuuuUuuuUuuuU — 自作ツールや学習メモを投稿
+# 🔗 Links
+📝 Qiita (https://qiita.com/YuuuUuuuUuuuU)— 自作ツールや学習メモを投稿
 
-🛠️ Tech
+# 🛠️ Tech
 
 Backend: C# / .NET・Go・Python・Spring Boot
 Frontend: React・JavaScript
@@ -15,7 +15,7 @@ Game: Unity（学習中・ピンボールゲーム制作中）
 
 AI: ComfyUI / Stable Diffusion によるローカル画像生成の自作ツール開発
 
-🧪 最近作っているもの
+# 🧪 最近作っているもの
 
 | プロジェクト | 内容 |
 | --- | --- |
